@@ -1,7 +1,7 @@
 [tool]
 [tool.poetry]
 name = "pyramid_precis_creative_template"
-version = "0.1.0"
+version = "0.2.0"
 description = "Default template for pyramid_resume"
 authors = ["Marc LaBelle <mjlabe@gmail.com>"]
 readme = "README.md"
