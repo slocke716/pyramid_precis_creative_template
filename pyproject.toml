@@ -4,7 +4,7 @@ name = "pyramid_precis_creative_template"
 version = "0.1.0"
 description = "Default template for pyramid_resume"
 authors = ["Marc LaBelle <mjlabe@gmail.com>"]
-readme = "README.rst"
+readme = "README.md"
 license =  "MIT"
 classifiers=[
     'Development Status :: 2 - Pre-Alpha',
